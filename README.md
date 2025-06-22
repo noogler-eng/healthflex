@@ -33,12 +33,12 @@ A beautifully designed and mobile-responsive **Timer Management App** built with
 ## 📂 Project Structure
 
 /src
-┣ /components # Reusable UI components
-┣ /context # TimerContext (global timer state)
-┣ /pages # Home, Add Timer, History
-┣ /utils # Format helpers (e.g., formatTime.ts)
-┣ App.tsx # Main app router
-┗ index.tsx # Entry point
+- /components # Reusable UI components
+- /context # TimerContext (global timer state)
+- /pages # Home, Add Timer, History
+- /utils # Format helpers (e.g., formatTime.ts)
+- App.tsx # Main app router
+- index.tsx # Entry point
 
 
 ---
@@ -63,5 +63,5 @@ npm run build
 ```
 
 ### deployed link 
-- https://healthflex-pink.vercel.app
+- deployed link -> https://healthflex-pink.vercel.app
 - sourcecode -> https://github.com/noogler-eng/healthflex
